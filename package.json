@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/RenatoFernandoSilvaGoncalves/Aula1PPIADSSemi/issues"
   },
-  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/Aula1PPIADSSemi#readme"
+  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/Aula1PPIADSSemi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
